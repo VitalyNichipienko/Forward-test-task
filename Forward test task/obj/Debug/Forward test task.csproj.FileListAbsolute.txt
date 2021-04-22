@@ -1,0 +1,20 @@
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\bin\Debug\Forward test task.exe.config
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\bin\Debug\Forward test task.exe
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\bin\Debug\Forward test task.pdb
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\obj\Debug\Forward test task.csprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\obj\Debug\Forward test task.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\obj\Debug\Forward test task.exe
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\obj\Debug\Forward test task.pdb
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Виталий\source\repos\Forward test task\Forward test task\obj\Debug\Forward test task.csproj.CopyComplete
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\bin\Debug\Forward test task.exe.config
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\bin\Debug\Forward test task.exe
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\bin\Debug\Forward test task.pdb
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\obj\Debug\Forward test task.csprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\obj\Debug\Forward test task.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\obj\Debug\Forward test task.csproj.CopyComplete
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\obj\Debug\Forward test task.exe
+C:\Users\Виталий\source\repos\C#\Forward test task\Forward test task\obj\Debug\Forward test task.pdb
